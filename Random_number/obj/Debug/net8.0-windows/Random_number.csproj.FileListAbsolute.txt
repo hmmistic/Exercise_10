@@ -1,0 +1,17 @@
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\bin\Debug\net8.0-windows\Random_number.exe
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\bin\Debug\net8.0-windows\Random_number.deps.json
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\bin\Debug\net8.0-windows\Random_number.runtimeconfig.json
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\bin\Debug\net8.0-windows\Random_number.dll
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\bin\Debug\net8.0-windows\Random_number.pdb
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\obj\Debug\net8.0-windows\Random_number.Form1.resources
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\obj\Debug\net8.0-windows\Random_number.csproj.GenerateResource.cache
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\obj\Debug\net8.0-windows\Random_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\obj\Debug\net8.0-windows\Random_number.AssemblyInfoInputs.cache
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\obj\Debug\net8.0-windows\Random_number.AssemblyInfo.cs
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\obj\Debug\net8.0-windows\Random_number.csproj.CoreCompileInputs.cache
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\obj\Debug\net8.0-windows\Random_number.dll
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\obj\Debug\net8.0-windows\refint\Random_number.dll
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\obj\Debug\net8.0-windows\Random_number.pdb
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\obj\Debug\net8.0-windows\Random_number.genruntimeconfig.cache
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\obj\Debug\net8.0-windows\ref\Random_number.dll
+C:\Users\Rashad\source\repos\Exercise_10\Random_number\obj\Debug\net8.0-windows\Random_number.sourcelink.json
